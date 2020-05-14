@@ -1,1 +1,46 @@
 
+{
+  "words": [
+      {
+        "word": "genius",
+        "type": "adjective",
+        "difficulty": "medium"
+      },
+      {
+        "word": "act",
+        "type": "verb",
+        "difficulty": "easy"
+      },
+      {
+        "word": "mulholland drive",
+        "type": "movie",
+        "difficulty": "hard"
+      },
+      {
+        "word": "skiing",
+        "type": "verb",
+        "difficulty": "medium"
+      },
+      {
+        "word": "catch a fish",
+        "type": "phrase",
+        "difficulty": "easy"
+      },
+      {
+        "word": "bitch",
+        "type": "noun",
+        "difficulty": "easy",
+        "kidFriendly": false
+      },
+      {
+        "word": "urinate",
+        "type": "verb",
+        "difficulty": "easy"
+      },
+      {
+        "word": "John Wick",
+        "type": "movie",
+        "difficulty": "medium"
+      }
+  ]
+}
